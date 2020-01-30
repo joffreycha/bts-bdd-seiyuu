@@ -1,0 +1,7 @@
+Problème : voir aussi pour série, OAV ou film. (peut-être directement dans la BD)
+Hypothèse : une table Anime avec des tables "filles" Série, OAV et Film...
+exemple : Kenshin
+Anime (titre, titre origin, auteur)
+serie (nb episodes, année)
+film ('titre', persos en +,année)
+oav (titres, persos en +, nb oav, année)
